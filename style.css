@@ -1,0 +1,28 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0d1117;
+    color: #c9d1d9;
+    text-align: center;
+}
+header {
+    background-color: #161b22;
+    padding: 2em 1em;
+}
+.buy {
+    margin: 2em;
+}
+.buy-button {
+    background-color: #00bcd4;
+    padding: 1em 2em;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+footer {
+    margin-top: 3em;
+    font-size: 0.9em;
+    color: #8b949e;
+}
