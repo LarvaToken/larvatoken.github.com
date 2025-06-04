@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Larva Token</title>
+  <style>
+    body { font-family: sans-serif; background: #fdf6e3; color: #333; margin: 0; padding: 20px; }
+    .container { max-width: 700px; margin: auto; }
+    h1 { color: #e09142; }
+    a { color: #e09142; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="logo.png" alt="Larva Token Logo" width="100" />
+    <h1>Larva Token</h1>
+    <p><strong>Crece. Aguanta. Evoluciona.</strong></p>
+    <h2>¿Qué es LARVA?</h2>
+    <p>Un token evolutivo creado en la red BNB Chain, con el objetivo de desarrollar una comunidad sólida y crecer orgánicamente.</p>
+
+    <h2>Tokenomics</h2>
+    <ul>
+      <li>Supply: 1,000,000,000 LARVA</li>
+      <li>Contrato: <a href="https://bscscan.com/address/0x14d8...">Ver en BSCScan</a></li>
+      <li>Liquidez: Aportada por la comunidad</li>
+    </ul>
+
+    <h2>Roadmap</h2>
+    <ul>
+      <li>✔️ Token lanzado</li>
+      <li>✔️ Añadido a PancakeSwap</li>
+      <li>➡️ CoinGecko / CMC</li>
+      <li>➡️ Utilidad y NFT</li>
+    </ul>
+
+    <h2>Enlaces</h2>
+    <ul>
+      <li><a href="https://twitter.com/LrvaToken">Twitter</a></li>
+      <li><a href="https://t.me/tu_grupo">Telegram</a></li>
+      <li><a href="https://pancakeswap.finance/swap?outputCurrency=0x14d8...">Comprar en PancakeSwap</a></li>
+    </ul>
+  </div>
+</body>
+</html>
